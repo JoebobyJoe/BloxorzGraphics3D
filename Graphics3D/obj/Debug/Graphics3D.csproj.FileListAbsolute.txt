@@ -1,0 +1,46 @@
+C:\Users\Werner\Google Drive.srss.ca\SRSS\Classroom\ICS40S 2015-2016\Teacher - ICS40S\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+C:\Users\Werner\Google Drive.srss.ca\SRSS\Classroom\ICS40S 2015-2016\Teacher - ICS40S\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+C:\Users\Werner\Google Drive.srss.ca\SRSS\Classroom\ICS40S 2015-2016\Teacher - ICS40S\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+C:\Users\Werner\Google Drive.srss.ca\SRSS\Classroom\ICS40S 2015-2016\Teacher - ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csprojResolveAssemblyReference.cache
+C:\Users\Werner\Google Drive.srss.ca\SRSS\Classroom\ICS40S 2015-2016\Teacher - ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+C:\Users\Werner\Google Drive.srss.ca\SRSS\Classroom\ICS40S 2015-2016\Teacher - ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+C:\Users\Werner\Google Drive.srss.ca\SRSS\Classroom\ICS40S 2015-2016\Teacher - ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.Cache
+C:\Users\Werner\Google Drive.srss.ca\SRSS\Classroom\ICS40S 2015-2016\Teacher - ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+C:\Users\Werner\Google Drive.srss.ca\SRSS\Classroom\ICS40S 2015-2016\Teacher - ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
+C:\Users\ovijes\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+C:\Users\ovijes\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+C:\Users\ovijes\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
+C:\Users\ovijes\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+C:\Users\ovijes\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+C:\Users\ovijes\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csprojResolveAssemblyReference.cache
+C:\Users\ovijes\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+C:\Users\ovijes\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+C:\Users\ovijes\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.Cache
+C:\Users\Dad\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+C:\Users\Dad\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+C:\Users\Dad\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
+C:\Users\Dad\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+C:\Users\Dad\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+C:\Users\Dad\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.Cache
+C:\Users\Dad\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+C:\Users\Dad\Google Drive\Classroom\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+D:\Johns_Stuff\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+D:\Johns_Stuff\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+D:\Johns_Stuff\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+D:\Johns_Stuff\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+D:\Johns_Stuff\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csprojResolveAssemblyReference.cache
+D:\Johns_Stuff\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+D:\Johns_Stuff\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+D:\Johns_Stuff\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.Cache
+D:\Johns_Stuff\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csprojAssemblyReference.cache
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.cache
+C:\Users\Joebo\Documents\SCHOOL_STUFF\High School\School 2016 AND CALCULS\ICS40S 2015-2016\ICS40S - Hiebert, John\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.CoreCompileInputs.cache
