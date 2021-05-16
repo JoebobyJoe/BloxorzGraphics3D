@@ -10,7 +10,7 @@ Level 1
 ![Level 1](https://github.com/JoebobyJoe/BloxorzGraphics3D/blob/main/Level%20ScreenShots/Level_1.PNG)
 
 Level 1, second last move before solving the puzzle
-![Level 1 Solution](https://github.com/JoebobyJoe/BloxorzGraphics3D/blob/main/Level%20ScreenShots/Level_1.PNG)
+![Level 1 Solution](https://github.com/JoebobyJoe/BloxorzGraphics3D/blob/main/Level%20ScreenShots/Level_1_Solution.PNG)
 
 Level 2
 ![Level 1 Solution](https://github.com/JoebobyJoe/BloxorzGraphics3D/blob/main/Level%20ScreenShots/Level_2.PNG)
